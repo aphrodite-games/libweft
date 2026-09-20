@@ -1,0 +1,858 @@
+{
+  "date": "2026-09-20",
+  "method": "SI -> project directory -> fresh Project.read -> rebuilt SI; full byte comparison",
+  "files": [
+    {
+      "file": "Scripts/Act2/ACT2MAIN.SI",
+      "bytes": 45416448,
+      "original_sha256": "4587725e9d1ef8e3a16e38fe2f696b2a7ac173a4a545d82a1cac6351b17823e6",
+      "rebuilt_sha256": "4587725e9d1ef8e3a16e38fe2f696b2a7ac173a4a545d82a1cac6351b17823e6",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Act3/ACT3.SI",
+      "bytes": 16646144,
+      "original_sha256": "afb95026c84b87e5b1d578aa91e120305a6f62c8712857f7ed02e8049fd06fe8",
+      "rebuilt_sha256": "afb95026c84b87e5b1d578aa91e120305a6f62c8712857f7ed02e8049fd06fe8",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Build/COPTER.SI",
+      "bytes": 3866624,
+      "original_sha256": "9be7df31ef96fd9d87f80928e1ae3ac7ad0666feaeb0e85b2efcca87b390e6fe",
+      "rebuilt_sha256": "9be7df31ef96fd9d87f80928e1ae3ac7ad0666feaeb0e85b2efcca87b390e6fe",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Build/DUNECAR.SI",
+      "bytes": 3145728,
+      "original_sha256": "8d9263fe1770079cce832ec416f142549cd5e3d934db4114ec018431f0a075fd",
+      "rebuilt_sha256": "8d9263fe1770079cce832ec416f142549cd5e3d934db4114ec018431f0a075fd",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Build/JETSKI.SI",
+      "bytes": 4456448,
+      "original_sha256": "95c1a4af59068a9f25e0624ce3045ffd38cbef715fef0bf0026c95a6797d53d1",
+      "rebuilt_sha256": "95c1a4af59068a9f25e0624ce3045ffd38cbef715fef0bf0026c95a6797d53d1",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Build/RACECAR.SI",
+      "bytes": 4128768,
+      "original_sha256": "c9c301f3da7b9e49c491148c66840d876371d26446e3c38e0ede603fc95bd9c8",
+      "rebuilt_sha256": "c9c301f3da7b9e49c491148c66840d876371d26446e3c38e0ede603fc95bd9c8",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/CREDITS.SI",
+      "bytes": 26935296,
+      "original_sha256": "8a824f2207dd755530a54bc3d6a0e1f8b885f9b72483d9fdb6061b66118c2b3a",
+      "rebuilt_sha256": "8a824f2207dd755530a54bc3d6a0e1f8b885f9b72483d9fdb6061b66118c2b3a",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Garage/GARAGE.SI",
+      "bytes": 5963776,
+      "original_sha256": "e836896356c90dfbebbb0c183002a805786536c7633a15ef997ba005a996a105",
+      "rebuilt_sha256": "e836896356c90dfbebbb0c183002a805786536c7633a15ef997ba005a996a105",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Hospital/HOSPITAL.SI",
+      "bytes": 4784128,
+      "original_sha256": "2be30dfbb88e75807fa1cad60c0b578960c81a1e7d877e1344f0571b3671498b",
+      "rebuilt_sha256": "2be30dfbb88e75807fa1cad60c0b578960c81a1e7d877e1344f0571b3671498b",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/INTRO.SI",
+      "bytes": 60882944,
+      "original_sha256": "2e40dd00596c7806667bfbb67c81fa6c71a13e3b4ba03c0335fbe8dfe690c4cb",
+      "rebuilt_sha256": "2e40dd00596c7806667bfbb67c81fa6c71a13e3b4ba03c0335fbe8dfe690c4cb",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Infocntr/ELEVBOTT.SI",
+      "bytes": 458752,
+      "original_sha256": "180a9fb4e0fb98900d5ca0963e30a92adb41e02c2df115df8f9d8d6eec8384f9",
+      "rebuilt_sha256": "180a9fb4e0fb98900d5ca0963e30a92adb41e02c2df115df8f9d8d6eec8384f9",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Infocntr/HISTBOOK.SI",
+      "bytes": 393216,
+      "original_sha256": "b644082d090a30badb4eb92b8bf12fcb89862b8533b71337dd262e41402b5644",
+      "rebuilt_sha256": "b644082d090a30badb4eb92b8bf12fcb89862b8533b71337dd262e41402b5644",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Infocntr/INFODOOR.SI",
+      "bytes": 1703936,
+      "original_sha256": "2f91b775213bae0d6b483631c96bfa0fbaa80d96fe489ed949f9b5f75721b0d7",
+      "rebuilt_sha256": "2f91b775213bae0d6b483631c96bfa0fbaa80d96fe489ed949f9b5f75721b0d7",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Infocntr/INFOMAIN.SI",
+      "bytes": 59310080,
+      "original_sha256": "ff16c619845f045af3b018a58bab65450bb23a0a0d9856d9d9a2d3950c603a80",
+      "rebuilt_sha256": "ff16c619845f045af3b018a58bab65450bb23a0a0d9856d9d9a2d3950c603a80",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Infocntr/INFOSCOR.SI",
+      "bytes": 16515072,
+      "original_sha256": "7bce0c3d83995e7cb7d60b6859b98eae0abecce6a9c2d348c9bcd45cfa9dd046",
+      "rebuilt_sha256": "7bce0c3d83995e7cb7d60b6859b98eae0abecce6a9c2d348c9bcd45cfa9dd046",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Infocntr/REGBOOK.SI",
+      "bytes": 4259840,
+      "original_sha256": "620f26a03e36e8cffc0c84b7e0d562cb4110cb9316baefe43c7da2507eff2e1a",
+      "rebuilt_sha256": "620f26a03e36e8cffc0c84b7e0d562cb4110cb9316baefe43c7da2507eff2e1a",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Isle/ISLE.SI",
+      "bytes": 157155328,
+      "original_sha256": "46c6ced5384dc1f674aeb5820799da73c167a7e98be5ab4314f2c7e2ba5b8f1e",
+      "rebuilt_sha256": "46c6ced5384dc1f674aeb5820799da73c167a7e98be5ab4314f2c7e2ba5b8f1e",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Isle/JUKEBOX.SI",
+      "bytes": 96600064,
+      "original_sha256": "941af6de958d148188008864418f85a84582d050716e4f7907477e444a475623",
+      "rebuilt_sha256": "941af6de958d148188008864418f85a84582d050716e4f7907477e444a475623",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Isle/JUKEBOXW.SI",
+      "bytes": 983040,
+      "original_sha256": "6dbe0a859321736c8eaa53799f0da98410810994172537f59cffd4cbd8c6cbdd",
+      "rebuilt_sha256": "6dbe0a859321736c8eaa53799f0da98410810994172537f59cffd4cbd8c6cbdd",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/NOCD.SI",
+      "bytes": 393216,
+      "original_sha256": "b41bb2764de9fdf8c85d91772201f3045bc135d958920201082e925a21e4389e",
+      "rebuilt_sha256": "b41bb2764de9fdf8c85d91772201f3045bc135d958920201082e925a21e4389e",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Police/POLICE.SI",
+      "bytes": 917504,
+      "original_sha256": "ec45f8b732b47c50bcb96c03aa74340f3861091bab644466c20f1eec2e33a694",
+      "rebuilt_sha256": "ec45f8b732b47c50bcb96c03aa74340f3861091bab644466c20f1eec2e33a694",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Race/CARRACE.SI",
+      "bytes": 10878976,
+      "original_sha256": "1f85c44aeb66019191af7b2d4a352a858fc461e8dcb4ea1919aa4b59b5bbbaa1",
+      "rebuilt_sha256": "1f85c44aeb66019191af7b2d4a352a858fc461e8dcb4ea1919aa4b59b5bbbaa1",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Race/CARRACER.SI",
+      "bytes": 131072,
+      "original_sha256": "29b9ab777bf63a55fa54783cc59985109e4ed2d03a6048f46725ac39fd3a622a",
+      "rebuilt_sha256": "29b9ab777bf63a55fa54783cc59985109e4ed2d03a6048f46725ac39fd3a622a",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Race/JETRACE.SI",
+      "bytes": 7274496,
+      "original_sha256": "03605c0f5a823d930ba0bd2928661cfaa49882d95f3c290e08327d8da4b9c46f",
+      "rebuilt_sha256": "03605c0f5a823d930ba0bd2928661cfaa49882d95f3c290e08327d8da4b9c46f",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Race/JETRACER.SI",
+      "bytes": 65536,
+      "original_sha256": "20cfb1e096878f68932835c30db4ef4becd1e88492a36124188dd6cc871678d1",
+      "rebuilt_sha256": "20cfb1e096878f68932835c30db4ef4becd1e88492a36124188dd6cc871678d1",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/SNDANIM.SI",
+      "bytes": 360448,
+      "original_sha256": "36a3d9b4849e1b757ab5ccd3df35dccc804a62a01b0382d574a746d093fc9c5f",
+      "rebuilt_sha256": "36a3d9b4849e1b757ab5ccd3df35dccc804a62a01b0382d574a746d093fc9c5f",
+      "exact": true,
+      "build": "English"
+    },
+    {
+      "file": "Scripts/Act2/ACT2MAIN.SI",
+      "bytes": 44957696,
+      "original_sha256": "fa3656b68c4adb7af98f7f2412b69bbb6711dbe26c8a326b573c5596e092e031",
+      "rebuilt_sha256": "fa3656b68c4adb7af98f7f2412b69bbb6711dbe26c8a326b573c5596e092e031",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Act3/ACT3.SI",
+      "bytes": 16056320,
+      "original_sha256": "1c636f90c1f6a47e9ea0184fd0104bfa3e3c0f25013213a26581e669d8b072b4",
+      "rebuilt_sha256": "1c636f90c1f6a47e9ea0184fd0104bfa3e3c0f25013213a26581e669d8b072b4",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Build/COPTER.SI",
+      "bytes": 3801088,
+      "original_sha256": "3601bdb0f57cd3cc681347048287c04ee44edbae6d0d3e61aff0204d0f523401",
+      "rebuilt_sha256": "3601bdb0f57cd3cc681347048287c04ee44edbae6d0d3e61aff0204d0f523401",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Build/DUNECAR.SI",
+      "bytes": 3145728,
+      "original_sha256": "2eb41f06e77656a150b4d17e85c7c634331bcc3e6ed51239f9425847ae8e12aa",
+      "rebuilt_sha256": "2eb41f06e77656a150b4d17e85c7c634331bcc3e6ed51239f9425847ae8e12aa",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Build/JETSKI.SI",
+      "bytes": 4456448,
+      "original_sha256": "b636636339d4d62cc0373440f0e8524a7625de28b93dbc180ca8104051aff344",
+      "rebuilt_sha256": "b636636339d4d62cc0373440f0e8524a7625de28b93dbc180ca8104051aff344",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Build/RACECAR.SI",
+      "bytes": 4128768,
+      "original_sha256": "8317247495fcc3d3790fa2dd130270055f7a7bf7447aa3a2285d218cd406ee3e",
+      "rebuilt_sha256": "8317247495fcc3d3790fa2dd130270055f7a7bf7447aa3a2285d218cd406ee3e",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/CREDITS.SI",
+      "bytes": 27197440,
+      "original_sha256": "6267ec1b27ec51199f4b52636abb8217240fe9a69382b9b573ab3d0b2be3a431",
+      "rebuilt_sha256": "6267ec1b27ec51199f4b52636abb8217240fe9a69382b9b573ab3d0b2be3a431",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Garage/GARAGE.SI",
+      "bytes": 5898240,
+      "original_sha256": "98b50aa78aec31064fa101164d5808a21e8570db7a2401b658c9199e2888c717",
+      "rebuilt_sha256": "98b50aa78aec31064fa101164d5808a21e8570db7a2401b658c9199e2888c717",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Hospital/HOSPITAL.SI",
+      "bytes": 4718592,
+      "original_sha256": "2f8781be0f9452097a2ff4db8d999e9abbf4f2ad19025c1f28722783aab80208",
+      "rebuilt_sha256": "2f8781be0f9452097a2ff4db8d999e9abbf4f2ad19025c1f28722783aab80208",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/INTRO.SI",
+      "bytes": 61145088,
+      "original_sha256": "6d58c78cca3279f7df90069e9e4a38eda2fc1eeee9f1c5953dde6be6c93bb738",
+      "rebuilt_sha256": "6d58c78cca3279f7df90069e9e4a38eda2fc1eeee9f1c5953dde6be6c93bb738",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Infocntr/ELEVBOTT.SI",
+      "bytes": 458752,
+      "original_sha256": "0ae1c735faa2f0f3e44a44e864b2fc7ad6394a9a1c3f91205028691ca270cc73",
+      "rebuilt_sha256": "0ae1c735faa2f0f3e44a44e864b2fc7ad6394a9a1c3f91205028691ca270cc73",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Infocntr/HISTBOOK.SI",
+      "bytes": 393216,
+      "original_sha256": "b644082d090a30badb4eb92b8bf12fcb89862b8533b71337dd262e41402b5644",
+      "rebuilt_sha256": "b644082d090a30badb4eb92b8bf12fcb89862b8533b71337dd262e41402b5644",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Infocntr/INFODOOR.SI",
+      "bytes": 1703936,
+      "original_sha256": "4a1652df308817ff496ac519fd250bbd133f0ecc1efa8b4efb4e2e1f800f140a",
+      "rebuilt_sha256": "4a1652df308817ff496ac519fd250bbd133f0ecc1efa8b4efb4e2e1f800f140a",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Infocntr/INFOMAIN.SI",
+      "bytes": 57737216,
+      "original_sha256": "c0fddd03b65c00f5dd4317fbd3fe1a0ef7262f3ce666e5d59a7a6024488563a8",
+      "rebuilt_sha256": "c0fddd03b65c00f5dd4317fbd3fe1a0ef7262f3ce666e5d59a7a6024488563a8",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Infocntr/INFOSCOR.SI",
+      "bytes": 16449536,
+      "original_sha256": "775a05e87f44f8bf85204c28fcf835bb967dfbbb32f1d28b9299f075ca0924a6",
+      "rebuilt_sha256": "775a05e87f44f8bf85204c28fcf835bb967dfbbb32f1d28b9299f075ca0924a6",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Infocntr/REGBOOK.SI",
+      "bytes": 4194304,
+      "original_sha256": "7555e6c6a73ac47fffb6263e70962f73f166b8d3880788fddc6b73112c8c7e78",
+      "rebuilt_sha256": "7555e6c6a73ac47fffb6263e70962f73f166b8d3880788fddc6b73112c8c7e78",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Isle/ISLE.SI",
+      "bytes": 154533888,
+      "original_sha256": "fa654ae8584d2da97b34c400df591aeea414577f29e0e09e7b4211ec69c768d5",
+      "rebuilt_sha256": "fa654ae8584d2da97b34c400df591aeea414577f29e0e09e7b4211ec69c768d5",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Isle/JUKEBOX.SI",
+      "bytes": 95289344,
+      "original_sha256": "aa3ef6305b1ab7ede62e626c587fc32a24fcaf179717ec642222b6175b04e41b",
+      "rebuilt_sha256": "aa3ef6305b1ab7ede62e626c587fc32a24fcaf179717ec642222b6175b04e41b",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Isle/JUKEBOXW.SI",
+      "bytes": 983040,
+      "original_sha256": "6dbe0a859321736c8eaa53799f0da98410810994172537f59cffd4cbd8c6cbdd",
+      "rebuilt_sha256": "6dbe0a859321736c8eaa53799f0da98410810994172537f59cffd4cbd8c6cbdd",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/NOCD.SI",
+      "bytes": 393216,
+      "original_sha256": "2e3dd5b855e6eae2270341ba09d06af29dfe641d8e22276f2bb238032b52254d",
+      "rebuilt_sha256": "2e3dd5b855e6eae2270341ba09d06af29dfe641d8e22276f2bb238032b52254d",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Police/POLICE.SI",
+      "bytes": 917504,
+      "original_sha256": "159fdc8e88801ed5e734806322b75cad5e971726126b1c621cffe6c190ba951e",
+      "rebuilt_sha256": "159fdc8e88801ed5e734806322b75cad5e971726126b1c621cffe6c190ba951e",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Race/CARRACE.SI",
+      "bytes": 10813440,
+      "original_sha256": "49f043a5047648df872eb2b2fd75086be09dbbc4770ed17dd8e8866a08956f31",
+      "rebuilt_sha256": "49f043a5047648df872eb2b2fd75086be09dbbc4770ed17dd8e8866a08956f31",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Race/CARRACER.SI",
+      "bytes": 131072,
+      "original_sha256": "29b9ab777bf63a55fa54783cc59985109e4ed2d03a6048f46725ac39fd3a622a",
+      "rebuilt_sha256": "29b9ab777bf63a55fa54783cc59985109e4ed2d03a6048f46725ac39fd3a622a",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Race/JETRACE.SI",
+      "bytes": 7274496,
+      "original_sha256": "3b82c0cf358626f352900412b1a1ec18ee043e4283f4dac4cbca2df67331d365",
+      "rebuilt_sha256": "3b82c0cf358626f352900412b1a1ec18ee043e4283f4dac4cbca2df67331d365",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Race/JETRACER.SI",
+      "bytes": 65536,
+      "original_sha256": "20cfb1e096878f68932835c30db4ef4becd1e88492a36124188dd6cc871678d1",
+      "rebuilt_sha256": "20cfb1e096878f68932835c30db4ef4becd1e88492a36124188dd6cc871678d1",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/SNDANIM.SI",
+      "bytes": 360448,
+      "original_sha256": "36a3d9b4849e1b757ab5ccd3df35dccc804a62a01b0382d574a746d093fc9c5f",
+      "rebuilt_sha256": "36a3d9b4849e1b757ab5ccd3df35dccc804a62a01b0382d574a746d093fc9c5f",
+      "exact": true,
+      "build": "Japanese"
+    },
+    {
+      "file": "Scripts/Act2/ACT2MAIN.SI",
+      "bytes": 46727168,
+      "original_sha256": "8ec207ae89160e38e99d6a0751e22a029acedf203516a136945590852596a153",
+      "rebuilt_sha256": "8ec207ae89160e38e99d6a0751e22a029acedf203516a136945590852596a153",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Act3/ACT3.SI",
+      "bytes": 16711680,
+      "original_sha256": "9fe3b31bb3c7cbe693e55ce22c4384a984b612b12145afe4fe2813703e2cbeac",
+      "rebuilt_sha256": "9fe3b31bb3c7cbe693e55ce22c4384a984b612b12145afe4fe2813703e2cbeac",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Build/COPTER.SI",
+      "bytes": 3932160,
+      "original_sha256": "af6eecf25e3b9396f973c542f667d10b98dc04fb1e5750513364b84f8868c11a",
+      "rebuilt_sha256": "af6eecf25e3b9396f973c542f667d10b98dc04fb1e5750513364b84f8868c11a",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Build/DUNECAR.SI",
+      "bytes": 3145728,
+      "original_sha256": "1bff2d63de95ee6273ee127a727362d7f5911192060c989012f49cb519d29729",
+      "rebuilt_sha256": "1bff2d63de95ee6273ee127a727362d7f5911192060c989012f49cb519d29729",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Build/JETSKI.SI",
+      "bytes": 4653056,
+      "original_sha256": "07a6e95bb053f0162e86dc5ab667865e270e99925af543fb8efbc0211425df44",
+      "rebuilt_sha256": "07a6e95bb053f0162e86dc5ab667865e270e99925af543fb8efbc0211425df44",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Build/RACECAR.SI",
+      "bytes": 4259840,
+      "original_sha256": "fddf03cb21c9a7dc83afcb3747d4526365caf4973f9b625acf3299f4a22b539a",
+      "rebuilt_sha256": "fddf03cb21c9a7dc83afcb3747d4526365caf4973f9b625acf3299f4a22b539a",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/CREDITS.SI",
+      "bytes": 26935296,
+      "original_sha256": "1c8a0caabe8ba6c239e54176ec71181d6d15023339fce9abbb8acc976e399bb1",
+      "rebuilt_sha256": "1c8a0caabe8ba6c239e54176ec71181d6d15023339fce9abbb8acc976e399bb1",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Garage/GARAGE.SI",
+      "bytes": 6750208,
+      "original_sha256": "074383249c0c032dc82d4b1428c40a8df746dab4e6691d0bc83bc2243300c190",
+      "rebuilt_sha256": "074383249c0c032dc82d4b1428c40a8df746dab4e6691d0bc83bc2243300c190",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Hospital/HOSPITAL.SI",
+      "bytes": 4915200,
+      "original_sha256": "b0813c62b65a514b72c53f4e5bbe0325a64380ce0eb613f221178068b0d4eb92",
+      "rebuilt_sha256": "b0813c62b65a514b72c53f4e5bbe0325a64380ce0eb613f221178068b0d4eb92",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/INTRO.SI",
+      "bytes": 60882944,
+      "original_sha256": "caff86a0f62d1ffc0552c5898fa17e3272057c393e2978df299bfae205409b5d",
+      "rebuilt_sha256": "caff86a0f62d1ffc0552c5898fa17e3272057c393e2978df299bfae205409b5d",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Infocntr/ELEVBOTT.SI",
+      "bytes": 458752,
+      "original_sha256": "56109c120b84ffbb36c659f63677d3f392f8f51c7c63ca825850235ee50e4bb4",
+      "rebuilt_sha256": "56109c120b84ffbb36c659f63677d3f392f8f51c7c63ca825850235ee50e4bb4",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Infocntr/HISTBOOK.SI",
+      "bytes": 393216,
+      "original_sha256": "b644082d090a30badb4eb92b8bf12fcb89862b8533b71337dd262e41402b5644",
+      "rebuilt_sha256": "b644082d090a30badb4eb92b8bf12fcb89862b8533b71337dd262e41402b5644",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Infocntr/INFODOOR.SI",
+      "bytes": 1703936,
+      "original_sha256": "5fd2487d7742d723d7e8bb1bebde26b80abc89d058ddf170dac1e728897f1d4f",
+      "rebuilt_sha256": "5fd2487d7742d723d7e8bb1bebde26b80abc89d058ddf170dac1e728897f1d4f",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Infocntr/INFOMAIN.SI",
+      "bytes": 56950784,
+      "original_sha256": "46d9a3f6a6e57ca77a403b631e09f906944c0e30b4d48f1ecd8371715d190673",
+      "rebuilt_sha256": "46d9a3f6a6e57ca77a403b631e09f906944c0e30b4d48f1ecd8371715d190673",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Infocntr/INFOSCOR.SI",
+      "bytes": 16449536,
+      "original_sha256": "368c87bd3406f45ea86a7eb684e7ae3977d6a7627360f41ac1819abd96e1ae03",
+      "rebuilt_sha256": "368c87bd3406f45ea86a7eb684e7ae3977d6a7627360f41ac1819abd96e1ae03",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Infocntr/REGBOOK.SI",
+      "bytes": 4259840,
+      "original_sha256": "10dceeb768b1bfdad591f7ac8b56e860b55c8457cbef85c4ad5611b26b9502f0",
+      "rebuilt_sha256": "10dceeb768b1bfdad591f7ac8b56e860b55c8457cbef85c4ad5611b26b9502f0",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Isle/ISLE.SI",
+      "bytes": 159186944,
+      "original_sha256": "fc6144d606dec96e928faf69dff0792f533e22214a1d9e8687665f27a43cb1b6",
+      "rebuilt_sha256": "fc6144d606dec96e928faf69dff0792f533e22214a1d9e8687665f27a43cb1b6",
+      "exact": true,
+      "log": {
+        "file": "ISLE.Log.gz",
+        "sha256": "9b43b28e3f85f7612a1a73796a58fe8e11796ce2110efce0cbc0f0f99fe2e896",
+        "emissions": 47059,
+        "exact": true
+      },
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Isle/JUKEBOX.SI",
+      "bytes": 96337920,
+      "original_sha256": "64ebe0c6fedae0e4f600fd63dce6d6c1f1496c3724c49d008b49280bb3bfab97",
+      "rebuilt_sha256": "64ebe0c6fedae0e4f600fd63dce6d6c1f1496c3724c49d008b49280bb3bfab97",
+      "exact": true,
+      "log": {
+        "file": "jukebox.Log.gz",
+        "sha256": "d33867e97eaa2d3cacf37c96233890d1ca73044c0d396fdc14ea5ac3078f64a1",
+        "emissions": 6531,
+        "exact": true
+      },
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Isle/JUKEBOXW.SI",
+      "bytes": 983040,
+      "original_sha256": "6dbe0a859321736c8eaa53799f0da98410810994172537f59cffd4cbd8c6cbdd",
+      "rebuilt_sha256": "6dbe0a859321736c8eaa53799f0da98410810994172537f59cffd4cbd8c6cbdd",
+      "exact": true,
+      "log": {
+        "file": "jukeboxw.Log.gz",
+        "sha256": "735c7c8bcca9af12b0a14fd808ad44c7e861c0bd9175b83c24313afd1ee7884b",
+        "emissions": 68,
+        "exact": true
+      },
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/NOCD.SI",
+      "bytes": 393216,
+      "original_sha256": "57a65279e7235006b8e441e8a83ab5ba8229b7ab56356de39b779d1e8084cca0",
+      "rebuilt_sha256": "57a65279e7235006b8e441e8a83ab5ba8229b7ab56356de39b779d1e8084cca0",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Police/POLICE.SI",
+      "bytes": 917504,
+      "original_sha256": "ec45f8b732b47c50bcb96c03aa74340f3861091bab644466c20f1eec2e33a694",
+      "rebuilt_sha256": "ec45f8b732b47c50bcb96c03aa74340f3861091bab644466c20f1eec2e33a694",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Race/CARRACE.SI",
+      "bytes": 10944512,
+      "original_sha256": "3c2b0cc4cf9e274e1f0729038e5eda9e059a2944faa3741931487e118d1e3bb3",
+      "rebuilt_sha256": "3c2b0cc4cf9e274e1f0729038e5eda9e059a2944faa3741931487e118d1e3bb3",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Race/CARRACER.SI",
+      "bytes": 131072,
+      "original_sha256": "29b9ab777bf63a55fa54783cc59985109e4ed2d03a6048f46725ac39fd3a622a",
+      "rebuilt_sha256": "29b9ab777bf63a55fa54783cc59985109e4ed2d03a6048f46725ac39fd3a622a",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Race/JETRACE.SI",
+      "bytes": 7208960,
+      "original_sha256": "24468870a22b563e9a8c137e1801aae2f4b8ffcafc1a758ce00b59803ff4dc13",
+      "rebuilt_sha256": "24468870a22b563e9a8c137e1801aae2f4b8ffcafc1a758ce00b59803ff4dc13",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Race/JETRACER.SI",
+      "bytes": 65536,
+      "original_sha256": "20cfb1e096878f68932835c30db4ef4becd1e88492a36124188dd6cc871678d1",
+      "rebuilt_sha256": "20cfb1e096878f68932835c30db4ef4becd1e88492a36124188dd6cc871678d1",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/SNDANIM.SI",
+      "bytes": 360448,
+      "original_sha256": "36a3d9b4849e1b757ab5ccd3df35dccc804a62a01b0382d574a746d093fc9c5f",
+      "rebuilt_sha256": "36a3d9b4849e1b757ab5ccd3df35dccc804a62a01b0382d574a746d093fc9c5f",
+      "exact": true,
+      "build": "Korean"
+    },
+    {
+      "file": "Scripts/Act2/ACT2MAIN.SI",
+      "bytes": 44695552,
+      "original_sha256": "b46011f0416f375371463bdd6f1c98ac84bfbb2292df76f81f92f52bb4796840",
+      "rebuilt_sha256": "b46011f0416f375371463bdd6f1c98ac84bfbb2292df76f81f92f52bb4796840",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Act3/ACT3.SI",
+      "bytes": 16646144,
+      "original_sha256": "57891bca3592a0b9e5427eacac9d3598f31d2a8ae198a276fdd7eefbd5bc35c4",
+      "rebuilt_sha256": "57891bca3592a0b9e5427eacac9d3598f31d2a8ae198a276fdd7eefbd5bc35c4",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Build/COPTER.SI",
+      "bytes": 3866624,
+      "original_sha256": "7bec5c16e3ba10ccf99c31b6b6b48ff1749694d4757c4c54548e41ea2653ea9e",
+      "rebuilt_sha256": "7bec5c16e3ba10ccf99c31b6b6b48ff1749694d4757c4c54548e41ea2653ea9e",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Build/DUNECAR.SI",
+      "bytes": 3145728,
+      "original_sha256": "6ba7ed701db402654f6328dffcbec6c29ec66e05021532203fe7201cc3933560",
+      "rebuilt_sha256": "6ba7ed701db402654f6328dffcbec6c29ec66e05021532203fe7201cc3933560",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Build/JETSKI.SI",
+      "bytes": 4456448,
+      "original_sha256": "1885530e759a200526a9f821cbf2b839d95fb8d32cd8209faebc9c462c6dab57",
+      "rebuilt_sha256": "1885530e759a200526a9f821cbf2b839d95fb8d32cd8209faebc9c462c6dab57",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Build/RACECAR.SI",
+      "bytes": 4128768,
+      "original_sha256": "29173ef3b89d0fe5a6c0bf479b53b348cd7602648b1bb74e922e0f2299587d1f",
+      "rebuilt_sha256": "29173ef3b89d0fe5a6c0bf479b53b348cd7602648b1bb74e922e0f2299587d1f",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/CREDITS.SI",
+      "bytes": 20971520,
+      "original_sha256": "700fe60384c2ee90d1435a6e414bc0d44a73fbe56f316c4ece8fd8c4d1337add",
+      "rebuilt_sha256": "700fe60384c2ee90d1435a6e414bc0d44a73fbe56f316c4ece8fd8c4d1337add",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Garage/GARAGE.SI",
+      "bytes": 5963776,
+      "original_sha256": "24e74f447083f8e4658219bcd6f07488fc2b3b27f383b3741f74a9885eae0f4e",
+      "rebuilt_sha256": "24e74f447083f8e4658219bcd6f07488fc2b3b27f383b3741f74a9885eae0f4e",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Hospital/HOSPITAL.SI",
+      "bytes": 4784128,
+      "original_sha256": "b1aae34bfde04e79f9774ca8bc8b7f0b2dfa5db889ac6277b1c9c62f80f6be95",
+      "rebuilt_sha256": "b1aae34bfde04e79f9774ca8bc8b7f0b2dfa5db889ac6277b1c9c62f80f6be95",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/INTRO.SI",
+      "bytes": 60882944,
+      "original_sha256": "2e40dd00596c7806667bfbb67c81fa6c71a13e3b4ba03c0335fbe8dfe690c4cb",
+      "rebuilt_sha256": "2e40dd00596c7806667bfbb67c81fa6c71a13e3b4ba03c0335fbe8dfe690c4cb",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Infocntr/ELEVBOTT.SI",
+      "bytes": 458752,
+      "original_sha256": "180a9fb4e0fb98900d5ca0963e30a92adb41e02c2df115df8f9d8d6eec8384f9",
+      "rebuilt_sha256": "180a9fb4e0fb98900d5ca0963e30a92adb41e02c2df115df8f9d8d6eec8384f9",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Infocntr/HISTBOOK.SI",
+      "bytes": 393216,
+      "original_sha256": "b644082d090a30badb4eb92b8bf12fcb89862b8533b71337dd262e41402b5644",
+      "rebuilt_sha256": "b644082d090a30badb4eb92b8bf12fcb89862b8533b71337dd262e41402b5644",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Infocntr/INFODOOR.SI",
+      "bytes": 1703936,
+      "original_sha256": "2f91b775213bae0d6b483631c96bfa0fbaa80d96fe489ed949f9b5f75721b0d7",
+      "rebuilt_sha256": "2f91b775213bae0d6b483631c96bfa0fbaa80d96fe489ed949f9b5f75721b0d7",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Infocntr/INFOMAIN.SI",
+      "bytes": 61210624,
+      "original_sha256": "542e7d767bedd144a6ed552612742587cb0371601494e057303f4f44c2120fed",
+      "rebuilt_sha256": "542e7d767bedd144a6ed552612742587cb0371601494e057303f4f44c2120fed",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Infocntr/INFOSCOR.SI",
+      "bytes": 1572864,
+      "original_sha256": "1f00aa6dccd75b84c7a2b5ba8e313f0d3e7f456aa7ab10af4707fd01cc18de95",
+      "rebuilt_sha256": "1f00aa6dccd75b84c7a2b5ba8e313f0d3e7f456aa7ab10af4707fd01cc18de95",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Infocntr/REGBOOK.SI",
+      "bytes": 4194304,
+      "original_sha256": "6bfd0367b64b36d9b086dc4398d589751eaca3c5c43f196e397e5ee6ffe6d48a",
+      "rebuilt_sha256": "6bfd0367b64b36d9b086dc4398d589751eaca3c5c43f196e397e5ee6ffe6d48a",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Isle/ISLE.SI",
+      "bytes": 157679616,
+      "original_sha256": "dbbeee2aaadf2a2738fecb2b9029134981b13ed2f0e9a30eefe92044d66fca54",
+      "rebuilt_sha256": "dbbeee2aaadf2a2738fecb2b9029134981b13ed2f0e9a30eefe92044d66fca54",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Isle/JUKEBOX.SI",
+      "bytes": 96600064,
+      "original_sha256": "48b942564bac1cf21dbc14f142f9d75f540fb5b1286559004a7c301fd1f91938",
+      "rebuilt_sha256": "48b942564bac1cf21dbc14f142f9d75f540fb5b1286559004a7c301fd1f91938",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Isle/JUKEBOXW.SI",
+      "bytes": 983040,
+      "original_sha256": "6dbe0a859321736c8eaa53799f0da98410810994172537f59cffd4cbd8c6cbdd",
+      "rebuilt_sha256": "6dbe0a859321736c8eaa53799f0da98410810994172537f59cffd4cbd8c6cbdd",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/NOCD.SI",
+      "bytes": 393216,
+      "original_sha256": "b41bb2764de9fdf8c85d91772201f3045bc135d958920201082e925a21e4389e",
+      "rebuilt_sha256": "b41bb2764de9fdf8c85d91772201f3045bc135d958920201082e925a21e4389e",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Police/POLICE.SI",
+      "bytes": 917504,
+      "original_sha256": "ec45f8b732b47c50bcb96c03aa74340f3861091bab644466c20f1eec2e33a694",
+      "rebuilt_sha256": "ec45f8b732b47c50bcb96c03aa74340f3861091bab644466c20f1eec2e33a694",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Race/CARRACE.SI",
+      "bytes": 10878976,
+      "original_sha256": "400f5a8b7c1cba630f3d3d65e3dca632cede50c470e1bfc6e51b0cd17bdb2654",
+      "rebuilt_sha256": "400f5a8b7c1cba630f3d3d65e3dca632cede50c470e1bfc6e51b0cd17bdb2654",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Race/CARRACER.SI",
+      "bytes": 131072,
+      "original_sha256": "29b9ab777bf63a55fa54783cc59985109e4ed2d03a6048f46725ac39fd3a622a",
+      "rebuilt_sha256": "29b9ab777bf63a55fa54783cc59985109e4ed2d03a6048f46725ac39fd3a622a",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Race/JETRACE.SI",
+      "bytes": 7274496,
+      "original_sha256": "6819d6257c76916f0b25af05daab0cfb8d4ff46bb0f07569dc4fe3bcce27364f",
+      "rebuilt_sha256": "6819d6257c76916f0b25af05daab0cfb8d4ff46bb0f07569dc4fe3bcce27364f",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/Race/JETRACER.SI",
+      "bytes": 65536,
+      "original_sha256": "83deb4436f7fc619a63e33d4b529fc09b779d377d543226c3ca0e242d2bb1f60",
+      "rebuilt_sha256": "83deb4436f7fc619a63e33d4b529fc09b779d377d543226c3ca0e242d2bb1f60",
+      "exact": true,
+      "build": "Beta 9.0"
+    },
+    {
+      "file": "Scripts/SNDANIM.SI",
+      "bytes": 327680,
+      "original_sha256": "2697cf27fca1a5bfdc2ca6cf2aac774d618fa5a942e28365d2980f26c0a71583",
+      "rebuilt_sha256": "2697cf27fca1a5bfdc2ca6cf2aac774d618fa5a942e28365d2980f26c0a71583",
+      "exact": true,
+      "build": "Beta 9.0"
+    }
+  ],
+  "residue_words": 207,
+  "zero_placeholders": 100
+}

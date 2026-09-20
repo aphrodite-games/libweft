@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "libweft"
+version = "0.1.0"
+description = "LEGO Island SI to Weaver SS and back"
+requires-python = ">=3.10"
+license = "LGPL-3.0-only"
+license-files = ["LICENSE", "COPYING"]
+readme = "README.md"
+
+[project.scripts]
+weft = "libweft.__main__:main"
+
+[tool.setuptools]
+packages = ["libweft"]
