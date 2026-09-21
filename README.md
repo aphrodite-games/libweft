@@ -50,6 +50,9 @@ The three logs are included as gzip files, preserving their original bytes.
   still outstanding. The observed pad/split threshold is **9827–9830**; this uses 9828.
 - Padding retains the previous contents of a single write buffer, initially `0xCD`.
   Container sizes are patched later, leaving their earlier values in some padding.
+- Source definitions can be woven more than once with different IDs. `ISLE.Log` creates
+  `SkateArms_Mask_Bitmap` once, then weaves it as 236 and 237; `HelicopterArms_Mask_Bitmap`
+  becomes 247 and 248. Definitions and emitted instances need separate identities.
 
 ## Using it
 
@@ -57,6 +60,14 @@ The three logs are included as gzip files, preserving their original bytes.
 Edit the SS, then `weave` the directory. Existing output files/directories are not replaced.
 The source is canonical: original comments, macros and includes cannot be recovered.
 Properties marked `[inferred]` use reconstructed syntax.
+
+This lets you:
+
+- Change placement, timing, looping and action order in SS, then rebuild the SI.
+- Assemble a new SI from source, object IDs and raw media. The tests include a synthetic
+  sound file built without an original SI.
+- Export the contained pictures, sounds and films for inspection, with their action IDs
+  and original source paths retained in an index.
 
 Scheduling, chunk boundaries, offsets and padding are rebuilt. The residue keeps container-size
 placeholders exposed in stale buffer contents: 207 words across the corpus, 100 of them zero.
